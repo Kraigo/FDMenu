@@ -1,0 +1,18 @@
+.container { padding: 10% 0; }
+.main-menu .container { padding: 10px 0; }
+.container-start {
+	background-color: #81DBB1;
+	color: #DFEDE7;
+	font-size: 200%;
+	font-size: 30px;
+}
+.container-start .container { padding: 20px 0; }
+.container-start h1 { color: #fff; font-size: 60px; }
+.main-menu { background-color: #fff; width: 100%; }
+.fixed {
+	box-shadow: 0 2px 6px rgba(0,0,0,.2);
+	left: 0;
+	position: fixed;
+	top: 0;
+}
+.container-fluid:nth-child(even) { background-color: #eee; }
